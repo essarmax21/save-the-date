@@ -327,6 +327,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 900px;
   display: table;
   width: 100%;
+  margin-left: -23%;
 }
 @media only screen and (max-width: 480px) {
   .fh5co-cover .display-t,
@@ -846,6 +847,7 @@ form label {
   margin-bottom: 0px;
   font-size: 100px;
   line-height: 1.5;
+  margin-right: 40%;
   font-family: "Sacramento", Arial, serif;
 }
 @media only screen and (max-width: 480px) {
@@ -868,6 +870,7 @@ form label {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 30px;
+  margin-right: 40%;
 }
 @media only screen and (max-width: 480px) {
   #fh5co-header .display-tc h2,
