@@ -1072,11 +1072,6 @@ form label {
     font-size: 30px;
   }
 }
-@media only screen and (max-width: 780px) {
-  body {
-    font-size: 30px;
-  }
-}
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
   color: #F14E95;
